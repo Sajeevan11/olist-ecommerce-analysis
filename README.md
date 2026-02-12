@@ -97,6 +97,7 @@ olist-ecommerce-analysis/
 Interactive map showing revenue concentration across Brazilian states, highlighting Southeast dominance and North/Northeast expansion opportunities.
 
 **Technologies:** Plotly, GeoJSON
+
 ![Revenue Distribution](images/brazil_choropleth.png)
 ---
 
